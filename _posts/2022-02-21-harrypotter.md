@@ -1,9 +1,9 @@
 ---
 title: "Harry Potter 원서 읽기"
 categories: [english]
-tags: [harrypotter, narniachronicles]
+tags: [해리포터, 나니아연대기]
 date: 2022-02-21 23:05:00 +0900
-last_modified_at: 2022-02-21 23:26:00 +0900
+last_modified_at: 2022-02-2i4 22:20:00 +0900
 ---
 큰 딸은 작가 지망 독서광 엄마를 닮아서 유독 책읽기를 좋아한다.  
 몇년 전 유치원 다닐 때 엄마의 소개로 `나니아 연대기`를 완독한 큰 딸은(인생 첫 장편동화 였을거다), 얼마 뒤 내게 이리저리 줄거리와 나름의 감상평을 미주알고주알 늘어놓았는데  
