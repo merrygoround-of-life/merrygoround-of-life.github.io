@@ -34,3 +34,16 @@ last_modified_at: 2022-02-24 22:15:00 +0900
 
 > It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now.
  - 맥고나걸 교수는 하루 종일 차갑고 딱딱한 벽 위에서 기다렸던 진짜 이유인, 가장 얘기하고 싶었던 바로 그 부분에 도달한 것 같았다. 그녀가 고양이로 변신했을 때나 원래 모습이었던 때를 통틀어 덤블도어를 지금처럼 이렇게 뚫어지게 처다본 적은 없었다.
+
+> I don’t suppose you're going to tell me why you're here, of all places?
+ - 하고 많은 장소 중에 당신이 하필 여기에 있는 이유를 제게 설명해주시겠어요?
+
+> It would be enough to turn any boy’s head. Famous before he can walk and talk! Famous for something he won’t even remember! Can you see how much better off he'll be, growing up away
+from all that until he’s ready to take it?
+ - 그렇게 되면 어떤 소년이라도 자만하게 될 거예요. 걷고 말하기도 전에 유명해지다니! 게다가 유명해진 이유가 자기가 기억도 못하는 어떤 것 때문이라니! 그가 충분히 그것들을 받아들일 준비가 되기 전까지 그 모든 것 들로부터 떨어져 자라는 것이 더 좋을 것 같지 않나요?
+
+> If the motorcycle was huge, it was nothing to the man sitting astride it.
+ - 오토바이도 엄청나게 컸지만, 거기 탄 사람에 비하면 아무것도 아니었다.
+
+> A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen.
+ - 어떤 놀라운 일은 전혀 일어날 것 같지 않은, 어두운 밤하늘 아래 조용하고 단정하게 있던 프리빗 가의 담장에 살짝 바람이 일었다.
