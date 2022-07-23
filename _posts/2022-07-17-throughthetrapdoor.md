@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter and the Sorcerer's Stone - Through The Trapdoor"
+title: "Harry Potter and the Sorcerer's Stone - Through he Trapdoor"
 categories: [english]
 tags: [해리포터, 영어]
 date: 2022-07-17 18:00:00 +0900
