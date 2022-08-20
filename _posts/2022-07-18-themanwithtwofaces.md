@@ -24,7 +24,7 @@ last_modified_at: 2022-07-23 21:00:00 +0900
 - 왜냐하면 지혜로운 사람에게 죽음이란 그저 또 다른 위대한 모험에 불과하기 때문이지.
 
 > Nevertheless, Harry, while you may only have delayed his return to power, it will merely take someone else who is prepared to fight what seems a losing battle next time — and if he is delayed again, and again, why, he may never return to power.
-- 
+- 해리, 너는 그가 다시 예전의 힘을 되찾는 걸 늦어지게 만들었고 다음 번에는 그와 (질 가능성이 높겠지만) 싸울 준비가 된 다른 사람이 필요할거야. 그리고 그가 또 그로 인해서 또 힘을 되찾는 것이 늦춰지고, 또 계속 그게 반복된다면, 결국 그는 힘을 되찾지 못하게 되겠지.
 
 > However, I shall answer your questions unless I have a very good reason not to, in which case I beg you’ll forgive me. I shall not, of course, lie.
 - 그래야 하는 정말 중요한 이유가 있지 않는 한, 너의 질문에 모두 대답할 거야. 만약에 그렇지 못한 경우라면 미리 용서해주길 바란다. 물론 거짓말은 하지 않을 거야.
