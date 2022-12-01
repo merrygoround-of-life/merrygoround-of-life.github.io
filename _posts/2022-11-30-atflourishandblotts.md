@@ -28,3 +28,9 @@ last_modified_at: 2022-11-30 19:00:00 +0900
 
 > Good day yourself, Mister Malfoy, and if the stories are true, you haven't sold me half of what's hidden in your manor...
 - 잘가시오 말포이씨, 당신 말이 사실이라면 당신 저택에 숨겨놓은 것들의 반도 나한테 팔지 않았겠군.
+
+> Don't go biting off more than you can chew - 
+- (속담)분에 넘치는 일은 하지 마라.
+
+> The perfect moment for me to make a little announcement I've been sitting on for some time!
+- 제가 한동안 말하지 않고 있었던 작은 발표를 할 완벽한 순간입니다!
