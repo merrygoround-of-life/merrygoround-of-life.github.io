@@ -2,8 +2,8 @@
 title: "Harry Potter and the Chamber of Secrets - The Whomping Willow"
 categories: [english]
 tags: [해리포터, 영어]
-date: 2023-01-14 21:20:00 +0900
-last_modified_at: 2023-01-14 21:20:00 +0900
+date: 2023-01-14 21:00:00 +0900
+last_modified_at: 2023-01-14 21:00:00 +0900
 ---
 > Muggles do know more than we give them credit for, don't they?
 - 머글들은 우리가 인정하는 것 이상으로 더 많은 것을 알고 있는 것 같아. 그렇지 않니?
