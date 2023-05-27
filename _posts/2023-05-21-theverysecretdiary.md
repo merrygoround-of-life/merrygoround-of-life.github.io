@@ -42,4 +42,4 @@ last_modified_at: 2023-05-21 22:00:00 +0900
 - 루베우스, 널 신고하겠어.
 
 > And out of it came something that made Harry let out a long, piercing scream unheard by anyone.
-- 그리고 거기서 튀어나온 무언가 때문에 해리는 누구에게도 들리지 않(고 해리만 들을 수 있)는 비명을 질렀다.5
+- 그리고 거기서 튀어나온 무언가 때문에 해리는 누구에게도 들리지 않(고 해리만 들을 수 있)는 비명을 질렀다.
