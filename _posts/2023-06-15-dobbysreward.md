@@ -12,7 +12,7 @@ last_modified_at: 2023-06-15 15:30:00 +0900
 - 우리 지니가 그와 무슨 관련이 있는거죠?
 
 > Never trust anything that can think for itself if you can't see where it keeps its brain?
-- ..
+- 뇌를 가지고 있는 것 같지 않으면 스스로 생각하는 것처럼 보이는 어떤 것도 믿지 마라(마법에 걸린 어떤 물건도 믿지 마라)
 
 > Which goes to show that the best of us must sometimes eat our words.
 - 그건 우리 중 최고가 때로 우리가 했던 말들을 무효로 만드는 걸 보여주는 거란다.
@@ -36,10 +36,10 @@ last_modified_at: 2023-06-15 15:30:00 +0900
 - 우리가 가진 능력보다, 우리가 하는 선택들이 진짜 우리가 누구인지를 보여주는 거란다, 해리.
 
 > Dear me, we do seem to run through them, don't we?
-- ...
+- 아이고야, 우리가 헤쳐나가야 할 것 같구나. 그렇지 않니?
 
 > Harry stood for a moment, thinking hard. Then it came to him.
-- ...
+- 해리는 골똘히 생각하며 잠깐 서 있었는데 갑자기 어떤 생각이 떠올랐다.
 
 > "Shame," said Ron, helping himself to a jam doughnut. "He has starting to grow on me."
 - "유감이네," 론이 잼 도넛을 먹으며 말했다. "그가 막 좋아지기 시작했는데 말야."
